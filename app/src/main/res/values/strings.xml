@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TA_PAPB_ASIAP</string>
+    <string name="Daftar"><u>Daftar disini!</u></string>
+    <string name="Masuk"><u>Masuk disini!</u></string>
+    <string name="QN">Nomor Antrian\nSekarang</string>
+    <string name="QU">Nomor Antrian\nAnda</string>
+    <string name="Info">Silahkan datang maksimal 10 menit sebelum antrian Anda atau maksimal 2 nomor urut sebelum Anda. <b>Jika Anda terlambat harap mengantri kembali dari awal.</b></string>
+
+    <string-array name="kategori_dokter">
+        <item>Dokter Spesialis Penyakit Dalam</item>
+        <item>Dokter Anak</item>
+        <item>Dokter Spesialis Kesehatan Gigi dan Mulut</item>
+        <item>Dokter Spesialis THT</item>
+        <item>Dokter Spesialis Mata</item>
+    </string-array>
+
+    <string-array name="kategori_rs">
+        <item>Terdekat</item>
+        <item>Sekarang Buka </item>
+        <item>Rating Tertinggi</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588273579127",
+    "project_id": "db-asiap-187b0",
+    "storage_bucket": "db-asiap-187b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588273579127:android:a247abc04da89f4c7f4272",
+        "android_client_info": {
+          "package_name": "com.example.ta_papb_asiap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588273579127-b2eusj6qbpp9in43ihfc0166hdvvja2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU_0FaXe_iUlOIsZ5n9vxyg-yNM7exkUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588273579127-b2eusj6qbpp9in43ihfc0166hdvvja2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
